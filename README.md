@@ -1,5 +1,6 @@
 # Hotel
 Código criado durante a disciplina de LP1.
+**PARTE 5 E 6 NAO IMPLEMENTADAS.
 
 Hotel – Parte 1
 
